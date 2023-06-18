@@ -16,22 +16,22 @@ const songs = [
   {
     path:
       "media/0bikalam download1music.ir (6).mp3",
-    displayName: "Html Padcast",
-    artist: "Ozbi",
+    displayName: "music 1",
+    artist: "Alex",
     cover:
       "images/canada01.jpeg",
   },
   {
     path: "media/0bikalam download1music.ir (10).mp3",
-    displayName: "Developing",
-    artist: "Flora Cash",
+    displayName: "music 2",
+    artist: "Flora",
     cover: "images/photografy.webp",
   },
   {
     path:
       "media/0bikalam download1music.ir (11).mp3",
-    displayName: "Earn",
-    artist: "Linkin Park",
+    displayName: "music 3",
+    artist: " Park",
     cover:
       "images/WhatsApp Image 2022-02-08 at 9.36.24 PM.jpeg",
   },
